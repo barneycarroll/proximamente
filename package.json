@@ -1,0 +1,27 @@
+{
+  "name": "proximamente",
+  "version": "0.0.0",
+  "description": "Create proxies based on lists of traps which can be extended at run time",
+  "main": "src/proximamente.es3.js",
+  "jsnext:main": "src/proximamente.es3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barneycarroll/proximamente.git"
+  },
+  "keywords": [
+    "extensible",
+    "proxy",
+    "API",
+    "wrapper",
+    "utility"
+  ],
+  "author": "barney.carroll@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barneycarroll/proximamente/issues"
+  },
+  "homepage": "https://github.com/barneycarroll/proximamente#readme"
+}
